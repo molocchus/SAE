@@ -9,4 +9,6 @@ Badam w nim, czy Sparse Autoencodery są w stanie wyuczyć się interpretowalnyc
 - Eksperymentalna metoda opierająca się na analizie rozkładu aktywacji  
 - Metoda łącząca top-k z selekcją aktualnie najsłabszych reprezentacji  
 
-Kod jest nadal w fazie rozwoju, dlatego zawiera wiele wykresów i nie ma jeszcze uporządkowanej struktury. Mimo to uważam, że dobrze odzwierciedla on mój aktualny poziom umiejętności.
+Kod jest nadal w fazie rozwoju, dlatego zawiera wiele wykresów i nie ma jeszcze uporządkowanej struktury. Nie porównałem jeszcze wszystkich 3 metod jednak mam do tego pipeline.
+
+Mimo to uważam, że ten kod dobrze odzwierciedla on mój aktualny poziom umiejętności.
